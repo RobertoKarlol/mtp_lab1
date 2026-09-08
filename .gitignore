@@ -21,3 +21,10 @@ htmlcov/
 .idea/
 .vscode/
 .DS_Store
+
+# Local overrides and temporary files
+.env.local
+.env.*.local
+*.orig
+*.rej
+*.bak

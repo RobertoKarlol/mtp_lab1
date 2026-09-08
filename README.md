@@ -1,6 +1,6 @@
 # Лабораторная работа №1. Система контроля версий
 
-[![Python code check](https://github.com/RobertoKarlol/mtp_lab1/actions/workflows/python-check.yml/badge.svg)](https://github.com/RobertoKarlol/mtp_lab1/actions/workflows/python-check.yml)
+[![Python code check](https://github.com/RobertoKarlol/mtp-lab1/actions/workflows/python-check.yml/badge.svg)](https://github.com/RobertoKarlol/mtp-lab1/actions/workflows/python-check.yml)
 
 **Нгуен Роберт Ламович, группа 221341, вариант 5, лабораторная №1**
 
@@ -36,8 +36,8 @@ lab1/tests/test_repo_info.py        # модульные тесты, их зап
 ## Как проверить работу локально
 
 ```bash
-git clone --recurse-submodules https://github.com/RobertoKarlol/mtp_lab1.git
-cd mtp_lab1
+git clone --recurse-submodules https://github.com/RobertoKarlol/mtp-lab1.git
+cd mtp-lab1
 python -m pip install flake8==5.0.4 flake8-docstrings==1.7.0 pep8-naming==0.13.3
 flake8 .
 python -m unittest discover -s lab1/tests -t .

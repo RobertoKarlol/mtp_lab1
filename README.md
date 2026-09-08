@@ -1,5 +1,7 @@
 # Лабораторная работа №1. Система контроля версий
 
+[![Python code check](https://github.com/RobertoKarlol/mtp_lab1/actions/workflows/python-check.yml/badge.svg)](https://github.com/RobertoKarlol/mtp_lab1/actions/workflows/python-check.yml)
+
 <!-- ЗАПОЛНИТЕ СТРОКУ НИЖЕ: ФИО полностью и номер группы -->
 **ФАМИЛИЯ ИМЯ ОТЧЕСТВО, группа ГГГГГГ-ГГ, вариант 5, лабораторная №1**
 
